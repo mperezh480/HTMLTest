@@ -5,4 +5,10 @@ This project is designed in two major parts: A frontend page hosting the MavPath
 This is a fairly straightforward C# project built on top of .NET. The basic instructions for a VS Code user can be found [here.](https://code.visualstudio.com/docs/languages/csharp)
 At the end of the day, as long as you have the latest stable release of .NET installed, and have the C# tools installed on your machine you should be good to go.
 ## Release notes
-Version 0.1 - Basic framework of application architecture holding testing frontend page on top of working C# .NET stack with non integrated testing database.
+M1: Frameworks and empty HTML.
+M2: HTML file that has the text and form sections and buttons that would be needed with corrcect titles and basic options.
+M3: Javascript is added as well as the beginning chain for the dropdowns to autogenerate.
+M4: Chain work for first two dropdowns.
+M5: Working cascade for the dropdown menu as well as the foundation for rediection based off of results
+##Branches
+There are branches for individuals to commit their current tests that we could add to our finalized branch. 
